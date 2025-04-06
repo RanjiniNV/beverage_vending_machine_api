@@ -40,5 +40,4 @@ These are stored in the `vending_db` MongoDB database.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/vending-machine-api.git
-cd vending-machine-api
+git clone https://github.com/RanjiniNV/beverage_vending_machine_api.git
